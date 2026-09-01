@@ -1,1 +1,4 @@
 .venv/
+processed_test.json
+processed_train.json
+Multi-XScience/
