@@ -1,0 +1,9 @@
+{
+  "model": "bart-base (section-aware)",
+  "train_size": 3000,
+  "epochs": 3,
+  "rouge1": 0.2838145812285443,
+  "rouge2": 0.05167002165468479,
+  "rougeL": 0.16468996376752826,
+  "bertscore_f1": 0.8488420844078064
+}

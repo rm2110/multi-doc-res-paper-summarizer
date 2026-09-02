@@ -4,3 +4,5 @@ processed_train.json
 Multi-XScience/
 bart_baseline/
 bart_baseline_model/
+bart_section_aware/
+bart_section_aware_model/
