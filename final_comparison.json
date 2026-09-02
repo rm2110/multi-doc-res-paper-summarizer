@@ -1,0 +1,22 @@
+{
+  "baseline": {
+    "rouge1": 0.2802,
+    "rouge2": 0.0493,
+    "rougeL": 0.1609,
+    "bertscore_f1": 0.8476
+  },
+  "section_aware": {
+    "rouge1": 0.2838,
+    "rouge2": 0.0517,
+    "rougeL": 0.1647,
+    "bertscore_f1": 0.8488
+  },
+  "section_aware_dedup": {
+    "rouge1": 0.26289717825899656,
+    "rouge2": 0.047543719119616135,
+    "rougeL": 0.1546790541870858,
+    "bertscore_f1": 0.8489443063735962
+  },
+  "dedup_changed_summaries": 104,
+  "dedup_total_summaries": 300
+}
