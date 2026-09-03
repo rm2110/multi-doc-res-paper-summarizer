@@ -1,0 +1,35 @@
+{
+  "baseline": {
+    "rouge1": 0.2802,
+    "rouge2": 0.0493,
+    "rougeL": 0.1609,
+    "bertscore_f1": 0.8476
+  },
+  "section_aware_v1": {
+    "rouge1": 0.2838,
+    "rouge2": 0.0517,
+    "rougeL": 0.1647,
+    "bertscore_f1": 0.8488
+  },
+  "v1_dedup_fusion": {
+    "rouge1": 0.2629,
+    "rouge2": 0.0475,
+    "rougeL": 0.1546,
+    "bertscore_f1": 0.8489
+  },
+  "v2_final": {
+    "model": "bart-base v2 (query-focused + MMR + decoding fixes)",
+    "rouge1": 0.2969744882411707,
+    "rouge2": 0.058201403228397265,
+    "rougeL": 0.1689310877362027,
+    "bertscore_f1": 0.8514702320098877
+  },
+  "v2_dedup_fusion": {
+    "rouge1": 0.29677459094924896,
+    "rouge2": 0.05818919010322221,
+    "rougeL": 0.16808973766662835,
+    "bertscore_f1": 0.8514830470085144,
+    "dedup_changed": 10,
+    "fusion_changed": 99
+  }
+}
