@@ -2,6 +2,7 @@
 processed_test.json
 processed_train.json
 Multi-XScience/
+bart_final/
 bart_baseline/
 bart_baseline_model/
 bart_section_aware/
@@ -24,3 +25,5 @@ bart_v2/checkpoint-2250/tokenizer.json
 bart_v2/checkpoint-2250/tokenizer_config.json
 bart_v2/checkpoint-2250/trainer_state.json
 bart_v2/checkpoint-2250/training_args.bin
+saved_models/
+bart_large_test/
