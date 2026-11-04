@@ -2,8 +2,6 @@
 
 A pipeline that generates **related-work paragraphs** from a paper's abstract and the abstracts of the works it cites. It fine-tunes BART on the [Multi-XScience](https://github.com/yaolu/Multi-XScience) dataset and tests whether preparing the input better, along with using a larger model, improves the output.
 
-> MCA dissertation (PAMCA698 – Dissertation I), School of Computer Science and Engineering, VIT Chennai, October 2026.
-> **Author:** Rishi Jyotirmay Mahajan (25MCA1003) · **Guide:** Dr. Tulasi Prasad Sariki
 
 ## Highlights
 
