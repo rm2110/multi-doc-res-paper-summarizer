@@ -1,0 +1,23 @@
+{
+  "v1": {
+    "relevance": 2.13,
+    "coherence": 3.11,
+    "informativeness": 2.02,
+    "overall": 2.505,
+    "n": 100
+  },
+  "v2": {
+    "relevance": 2.543,
+    "coherence": 3.253,
+    "informativeness": 2.127,
+    "overall": 2.707,
+    "n": 300
+  },
+  "v3": {
+    "relevance": 3.13,
+    "coherence": 3.49,
+    "informativeness": 2.61,
+    "overall": 3.101,
+    "n": 100
+  }
+}
